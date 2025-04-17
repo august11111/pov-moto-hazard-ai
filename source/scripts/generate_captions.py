@@ -17,7 +17,7 @@ for fname in sorted(os.listdir(frames_folder)):
     if fname.endswith(".jpg"):
         img_path = os.path.join(frames_folder, fname)
         raw_image = Image.open(img_path).convert('RGB')
-        
+    
         inputs = processor(raw_image, return_tensors="pt")
         out = model.generate(**inputs)
         caption = processor.decode(out[0], skip_special_tokens=True)
