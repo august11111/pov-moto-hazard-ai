@@ -1,11 +1,11 @@
+import os
 import subprocess
 
+OLLAMA_PATH = os.environ.get("OLLAMA_PATH", "/home/centralesupelec/ollama-bin/bin/ollama")
+
 def ask_llama(prompt: str) -> str:
-    """
-    Envoie un prompt à LLaMA 3.2 via Ollama et récupère la réponse.
-    """
     process = subprocess.Popen(
-        ["ollama", "run", "llama3.2"],
+        [OLLAMA_PATH, "run", "llama3.2"],
         stdin=subprocess.PIPE,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
