@@ -1,0 +1,254 @@
+[
+  {
+    "frame_id": 0,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The imminent hazards include an oncoming white van directly ahead and another car approaching from the opposite direction on the left side. Additionally, there are crossing pedestrians and the presence of multiple vehicles at the intersection, suggesting a busy traffic area."
+  },
+  {
+    "frame_id": 0,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Car**: \n  - Type: White SUV\n  - Location: Approximately mid-frame, on the road\n  - Direction: Moving towards the viewer (opposite direction)\n\n- **Pedestrian**:\n  - Type: Person crossing the street\n  - Location: Left side of the image, near the crosswalk\n  - Direction: Moving from left to right\n\n- **Traffic Light**:\n  - Type: Traffic light (partially visible)\n  - Location: Right side of the image, near the building\n  - Direction: Facing the viewer"
+  },
+  {
+    "frame_id": 30,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In the image, there are several vehicles visible ahead on the road, including cars and a truck, which could pose potential hazards if they brake suddenly or change lanes. Additionally, there is a traffic light on the right side of the image, indicating the need to be aware of upcoming traffic signals."
+  },
+  {
+    "frame_id": 30,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image provided, here are three critical objects or hazards present in the scene:\n\n- **Vehicles on the road**:\n  - Type: Cars\n  - Location: On the street ahead\n  - Direction: Moving in both directions\n\n- **Other road users (e.g., pedestrians, bicyclists)**:\n  - Type: Potential pedestrians and other road users (not clearly visible, but typically present in urban areas)\n  - Location: Along the sides of the road or potentially crossing the street\n  - Direction: Various, including moving across the road\n\n- **Traffic light**:\n  - Type: Traffic light\n  - Location: On the right side of the road ahead\n  - Direction: Facing the viewer, indicating the traffic flow direction"
+  },
+  {
+    "frame_id": 60,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "There is a motorcycle directly ahead, and another vehicle is partially visible in the left part of the frame, both presenting potential collision risks. Additionally, there is a pedestrian on the right side of the road who may step onto the street unexpectedly."
+  },
+  {
+    "frame_id": 60,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Cyclist:**\n  - **Location:** In the center-left of the image, near the car's windshield.\n  - **Direction:** Moving from left to right.\n\n- **Traffic Light:**\n  - **Location:** On the right side of the image, above the road.\n  - **Direction:** Stationary, facing the road.\n\n- **Pedestrians:**\n  - **Location:** On the right side of the image, near the traffic light.\n  - **Direction:** Seemingly stationary or crossing the road."
+  },
+  {
+    "frame_id": 90,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "A motorcycle is directly in front of the viewer, and there are several vehicles visible on the road ahead. There is a traffic sign on the right side of the road, and multiple other vehicles can be seen in the distance."
+  },
+  {
+    "frame_id": 90,
+    "timestamp": 0.10510635375976562,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image provided, here are up to three critical objects or hazards present in the scene:\n\n- **Pedestrians (Type):** \n  - **Location:** On the left side of the street near the buildings.\n  - **Direction:** Possibly crossing the street or walking along the sidewalk.\n\n- **Vehicles (Type):**\n  - **Location:** In the middle of the street, visible in the distance.\n  - **Direction:** Likely moving forward along the road.\n\n- **Side Mirror (Type):** \n  - **Location:** On the left side of the image, attached to the vehicle the viewer is in.\n  - **Direction:** Reflecting the scene behind the vehicle."
+  },
+  {
+    "frame_id": 120,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The image shows a pedestrian crossing the street immediately in front of the vehicle. Additionally, there are other vehicles on the road and a pedestrian on the right side, which require attention to avoid potential hazards."
+  },
+  {
+    "frame_id": 120,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Sure, here are three critical objects or hazards present in the scene:\n\n- **Pedestrian Crossing:**\n  - Type: Crosswalk\n  - Location: Foreground, center of the image\n  - Direction: Perpendicular to the direction of the vehicle\n\n- **Traffic Light:**\n  - Type: Traffic signal\n  - Location: Left side of the image, near the top corner of the building\n  - Direction: Facing towards the vehicle (facing the camera)\n\n- **Building Shadow:**\n  - Type: Shadow of the building\n  - Location: Right side of the image, over the road\n  - Direction: Cast diagonally across the scene, potentially affecting visibility"
+  },
+  {
+    "frame_id": 150,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The driver is closely following a blue car in front, and a white van is approaching from the opposite direction. Additionally, there are parked cars on both sides of the street which may obstruct visibility and maneuverability."
+  },
+  {
+    "frame_id": 150,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Here are three critical objects or hazards present in the scene:\n\n- **Pedestrians on the roadside:** \n  - Location: Left side of the road, near the buildings.\n  - Direction: Moving or standing parallel to the road.\n\n- **White van:**\n  - Location: Ahead in the center of the road.\n  - Direction: Moving away from the viewer in the same direction as the motorbike.\n\n- **Blue bus:**\n  - Location: Ahead on the right side of the road.\n  - Direction: Stationary or moving slowly in the same direction as the motorbike."
+  },
+  {
+    "frame_id": 180,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The rider is approaching a narrow road with parked cars on both sides, creating potential obstacles. Immediate hazards include a blue car on the right and a red car ahead on the left, as well as possible pedestrians who could emerge from between the parked vehicles."
+  },
+  {
+    "frame_id": 180,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image:\n\n- **Stationary Vehicles on Road:**\n  - Location: Middle of the road in the distance.\n  - Direction: Facing towards the camera, indicating they are either parked or waiting in traffic.\n\n- **Cyclist or Biker:**\n  - Location: Foreground of the image, driving on the road.\n  - Direction: Moving forward along the road, towards the stationary vehicles.\n\n- **Approaching Vehicles (from opposite direction):**\n  - Location: Left side of the road.\n  - Direction: Coming towards the camera from the opposite direction."
+  },
+  {
+    "frame_id": 210,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "There are multiple vehicles parked along the right side of the road, which may require attention while overtaking or passing. No immediate pedestrians or traffic signs are visible, but caution should be exercised due to the oncoming traffic on the left side."
+  },
+  {
+    "frame_id": 210,
+    "timestamp": 276.88068294525146,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Here are three critical objects or hazards present in the scene:\n\n- **Cars parked on the left side of the road**:\n  - Type: Parked vehicles.\n  - Location: Left side of the street.\n  - Direction: Stationary, parallel to the road.\n\n- **Oncoming vehicle near the right side**:\n  - Type: Oncoming vehicle.\n  - Location: Right side of the road.\n  - Direction: Towards the camera.\n\n- **Cyclist riding in the foreground**:\n  - Type: Vulnerable road user (cyclist).\n  - Location: Center-foreground of the image.\n  - Direction: Moving forward (same direction as the camera)."
+  },
+  {
+    "frame_id": 240,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In the image, there is a truck on the right side of the road ahead, and a few vehicles are visible further down the road. There are also some pedestrians on the left sidewalk closer to the foreground."
+  },
+  {
+    "frame_id": 240,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Vehicle on the Right:**\n  - **Type:** Car\n  - **Location:** Right side of the road\n  - **Direction:** Moving in the same direction as the motorcycle\n\n- **Pedestrian on the Left:**\n  - **Type:** Person walking\n  - **Location:** Left sidewalk\n  - **Direction:** Moving in the opposite direction of the motorcycle\n\n- **Buildings and Walls:**\n  - **Type:** Structures along the road\n  - **Location:** Both sides of the road\n  - **Direction:** Stationary, but can obscure the view of potential hazards coming from side streets"
+  },
+  {
+    "frame_id": 270,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "There is a car closely positioned in the right lane which could be a potential hazard if it merges without signaling. Additionally, the parked cars on the left side of the road may obstruct visibility of pedestrians stepping out from between them."
+  },
+  {
+    "frame_id": 270,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Cars on the Road:**\n  - **Type:** Vehicles\n  - **Location:** On both sides of the road, visible in the distance.\n  - **Direction:** Moving in both directions along the road.\n\n- **Pedestrians/Bystanders:**\n  - **Type:** People\n  - **Location:** On the sidewalks to the left and right of the road.\n  - **Direction:** Stationary or moving parallel to the road.\n\n- **Motorcycle Handlebars:**\n  - **Type:** Motorcycle Controls\n  - **Location:** In the foreground, directly in front of the viewer.\n  - **Direction:** Facing forward along the road."
+  },
+  {
+    "frame_id": 300,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The imminent hazards include a car on the right edge of the road and another car further ahead on the left side of the road. There are also a few pedestrians and parked cars along both sides of the road."
+  },
+  {
+    "frame_id": 300,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Here are three critical objects or hazards present in the scene:\n\n- **Oncoming Vehicle:**\n  - **Type:** Car\n  - **Location:** Right side of the road, approaching from the opposite direction\n  - **Direction:** Towards the viewer\n\n- **Pedestrians:**\n  - **Type:** People\n  - **Location:** Left side of the road, near the sidewalk\n  - **Direction:** Potentially crossing the road or walking along the sidewalk\n\n- **Cyclist:**\n  - **Type:** Person on a bicycle\n  - **Location:** Left side of the road, riding in the same direction as the viewer\n  - **Direction:** Moving away from the viewer"
+  },
+  {
+    "frame_id": 330,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "There is a vehicle directly ahead in the lane, and another vehicle is visible on the left side of the road. There are no immediate pedestrians or traffic signs visible that pose a hazard."
+  },
+  {
+    "frame_id": 330,
+    "timestamp": 513.9646265506744,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the scene depicted in the image:\n\n- **Cars on the left side of the road:**\n  - **Type:** Motor vehicles\n  - **Location:** Left-hand side of the road\n  - **Direction:** Moving towards the viewer or parked along the roadside\n\n- **Buildings along the road:**\n  - **Type:** Structures (Residential or commercial buildings)\n  - **Location:** Both sides of the road\n  - **Direction:** Stationary\n\n- **Railway tracks running parallel to the road:**\n  - **Type:** Railway tracks\n  - **Location:** On the left side of the road, beside the cars\n  - **Direction:** Runs parallel to the road, extending into the distance"
+  },
+  {
+    "frame_id": 360,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In the image, there are several parked cars along the sides of the road and a few pedestrians walking on the sidewalk. A vehicle is approaching from the opposite direction, which the rider should be aware of to avoid any potential collision."
+  },
+  {
+    "frame_id": 360,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Here are three critical objects or hazards present in the scene:\n\n- **Cars on the Road:**\n  - Type: Vehicles\n  - Location: On the road, ahead of the motorcycle\n  - Direction: Traveling in the opposite direction\n\n- **Tracks on the Road:**\n  - Type: Railway or tram tracks\n  - Location: Embedded in the middle of the road surface\n  - Direction: Running parallel to the direction of travel\n\n- **Pedestrian:**\n  - Type: Person\n  - Location: Near the left edge of the pathway, approaching the road\n  - Direction: Moving towards the road from the left side"
+  },
+  {
+    "frame_id": 390,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The primary imminent hazard is the presence of several pedestrians crossing the road ahead. There are also multiple vehicles in the vicinity, including a bus to the right, which could pose a risk if they make sudden stops or maneuvers."
+  },
+  {
+    "frame_id": 390,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "In the image, the scene is from the perspective of a person riding a motorcycle or bicycle. Here are three critical objects or hazards present:\n\n- **Vehicles on the road:**\n  - **Type:** Cars\n  - **Location:** On the road ahead\n  - **Direction:** Moving in both directions on the multi-lane road\n\n- **Tram Tracks:**\n  - **Type:** Tram Tracks\n  - **Location:** Center of the road\n  - **Direction:** Running parallel to the direction of travel\n\n- **Pedestrians and Cyclists:**\n  - **Type:** Pedestrians and Cyclists (potential presence)\n  - **Location:** Possibly near the buildings and sidewalks\n  - **Direction:** Can enter or cross the road from either side\n\nThese objects and potential hazards require attention and caution while navigating the road."
+  },
+  {
+    "frame_id": 420,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In this image, there are multiple pedestrians on the road ahead, posing a potential hazard. Additionally, the tram tracks in the middle of the road could affect vehicle handling if not navigated carefully."
+  },
+  {
+    "frame_id": 420,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Tram Tracks:**\n  - Type: Tram tracks embedded in the road.\n  - Location: Center of the road.\n  - Direction: Running longitudinally along the street.\n\n- **Pedestrians:**\n  - Type: People walking on the sidewalks.\n  - Location: Both sides of the street.\n  - Direction: Moving parallel to the road.\n\n- **Buildings:**\n  - Type: Multi-storied buildings flanking the street.\n  - Location: Both sides of the street.\n  - Direction: Static and lining the road."
+  },
+  {
+    "frame_id": 450,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In the image, there are vehicles parked on the left side of the road, and a few pedestrians are visible further ahead. There are also tram tracks running down the center of the street, which poses a potential hazard for the cyclist."
+  },
+  {
+    "frame_id": 450,
+    "timestamp": 762.4960744380951,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the provided image:\n\n- **Cars on the Road**:\n  - **Type**: Vehicles (cars)\n  - **Location**: On the road, in both directions\n  - **Direction**: Moving towards and away from the camera's viewpoint\n\n- **Tram Tracks**:\n  - **Type**: Tram tracks\n  - **Location**: Embedded in the road surface\n  - **Direction**: Running parallel to the direction of the road\n\n- **Pedestrians**:\n  - **Type**: Pedestrians\n  - **Location**: On the sidewalks beside the road\n  - **Direction**: Walking in various directions along the sidewalks"
+  },
+  {
+    "frame_id": 480,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The driver ahead is stopped and there's a traffic light further down the road that may change at any moment. Pedestrians are visible on the sidewalks, and there are parked cars that could pull out into the street."
+  },
+  {
+    "frame_id": 480,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Based on the image, here are three critical objects or hazards present in the scene:\n\n- **Vehicles Ahead**:\n  - Type: Cars\n  - Location: Middle of the road\n  - Direction: Moving forward\n\n- **Buildings and Trees**:\n  - Type: Structures and vegetation\n  - Location: Both sides of the road\n  - Direction: Stationary\n\n- **Pedestrian Crossings**:\n  - Type: Crosswalk\n  - Location: Across the road\n  - Direction: Transverse (perpendicular to the direction of the road)"
+  },
+  {
+    "frame_id": 510,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "In the image, there are two cars ahead on the road and a traffic light that is red, indicating the driver should stop. Additionally, there are some pedestrians visible on the sidewalks, posing potential hazards if they were to suddenly move onto the road."
+  },
+  {
+    "frame_id": 510,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "From the image, the following critical objects or hazards can be identified:\n\n- **Oncoming Vehicle (white car):**\n  - Location: Left side of the road, ahead.\n  - Direction: Approaching from the opposite direction.\n\n- **Pedestrians:**\n  - Location: Sidewalks on both sides of the road.\n  - Direction: Walking or standing on either side.\n\n- **Side Mirrors:**\n  - Location: Close to the viewer, on either side of the vehicle the image is taken from.\n  - Direction: Extending outward from the vehicle."
+  },
+  {
+    "frame_id": 540,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The image shows a clear road ahead with no immediate vehicles or pedestrians in the path. However, there is a slight blurriness which might obscure any smaller details or distant hazards."
+  },
+  {
+    "frame_id": 540,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Certainly! Based on the image, here are three critical objects or hazards in the scene:\n\n- **Oncoming Vehicle**: \n  - Type: Car\n  - Location: Center lane, approaching the viewer's vehicle\n  - Direction: Coming towards the viewer\n\n- **Cyclist**:\n  - Type: Bicycle rider\n  - Location: Left side of the road, in the bike lane\n  - Direction: Moving in the same direction as the viewer\n\n- **Pedestrians/Sidewalk**:\n  - Type: People walking on the sidewalk\n  - Location: Right side of the road\n  - Direction: Moving in various directions along the sidewalk"
+  },
+  {
+    "frame_id": 570,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "The image shows an empty road ahead with no immediate vehicles or pedestrians. There are no visible traffic signs in the immediate vicinity indicating any hazards."
+  },
+  {
+    "frame_id": 570,
+    "timestamp": 1017.0072147846222,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Here are three critical objects or hazards present in the scene along with their types, locations, and directions:\n\n- **Motorcycle Handlebars:**\n  - **Type:** Motorcycle component\n  - **Location:** Foreground\n  - **Direction:** Straight ahead\n  \n- **Traffic Light:**\n  - **Type:** Traffic control device\n  - **Location:** Middle ground, ahead on the right side of the road\n  - **Direction:** Facing the viewer\n  \n- **Buildings and Storefronts:**\n  - **Type:** Stationary structures\n  - **Location:** Along both sides of the street\n  - **Direction:** Parallel to the road on both sides\n\nThese objects and hazards are significant for ensuring the rider's safety and awareness while navigating this urban environment."
+  },
+  {
+    "frame_id": 600,
+    "timestamp": 1243.6649188995361,
+    "prompt_variant": "Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",
+    "caption_text": "There are no imminent hazards directly in front of the bicycle, but there are vehicles parked on the left side of the street and pedestrians on the sidewalk. The traffic light ahead is green, indicating it is safe to proceed."
+  },
+  {
+    "frame_id": 600,
+    "timestamp": 1243.6649188995361,
+    "prompt_variant": "List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.",
+    "caption_text": "Sure, here are three critical objects or hazards present in the scene:\n\n- **Traffic Lights**:\n  - **Type**: Traffic control device.\n  - **Location**: In the middle of the intersection.\n  - **Direction**: Directly ahead and slightly to the left.\n\n- **Bus**:\n  - **Type**: Large vehicle.\n  - **Location**: On the left side of the road.\n  - **Direction**: Stationary or moving slowly to the right.\n\n- **Pedestrians**:\n  - **Type**: People crossing or near the road.\n  - **Location**: Near the bus on the left side.\n  - **Direction**: Appear to be moving away from the road, heading left."
+  }
+]

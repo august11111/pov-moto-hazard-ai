@@ -1,0 +1,26 @@
+{
+  "pixtrale_prompts": [
+    "```json",
+    "[",
+    "\"Generate a detailed description of the following scene: {DESCRIPTION_SCÈNE}. Ensure to include all relevant details about the environment and any notable activities or movements. Additionally, provide a list of objects detected in the scene with their respective details: {LISTE_OBJETS}.\",",
+    "\"Describe the scene as follows: {DESCRIPTION_SCÈNE}. Highlight any important elements or actions taking place. Also, include a list of objects present in the scene with their specific attributes: {LISTE_OBJETS}.\",",
+    "\"Create a vivid description of this scene: {DESCRIPTION_SCÈNE}. Mention all significant details and activities. Furthermore, list the objects identified in the scene along with their characteristics: {LISTE_OBJETS}.\",",
+    "\"Provide a comprehensive description of the scene: {DESCRIPTION_SCÈNE}. Focus on key elements and actions. In addition, enumerate the objects detected in the scene with their corresponding details: {LISTE_OBJETS}.\",",
+    "\"Summarize the scene with the following details: {DESCRIPTION_SCÈNE}. Include all relevant information about the environment and activities. Also, list the objects present in the scene with their specific attributes: {LISTE_OBJETS}.\"",
+    "]",
+    "```"
+  ],
+  "llama_prompts": [
+    "From {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, generate three safety tips for a motorcyclist in English. Each tip should start with an imperative verb (e.g., “Brake,” “Avoid,” “Slow down”), be one to two sentences, and focus on a single hazard.",
+    "Using {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, produce a checklist of five immediate actions a motorbike rider should take to stay safe. Write each action as an imperative sentence in clear English.",
+    "Given the scene described by {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, draft two imperative sentences that emphasize maintaining visibility and safe following distance for a motorcyclist.",
+    "Based on {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, generate four riding recommendations in imperative form, each one sentence long, in English, and tailored to reduce accident risk on a motorcycle.",
+    "Provide three urgent tips for a motorcyclist dealing with the situation in {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, focusing on braking technique and blind-spot awareness, each beginning with an imperative verb.",
+    "From {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, write one alert and two additional riding tips for a motorbike rider. All output must be in English, imperative mood, and no extra explanation.",
+    "Formulate four immediate instructions for a motorcycle rider based on {DESCRIPTION_SCÈNE}, each in one sentence imperative form, aimed at minimizing collision risk.",
+    "Using {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, create three essential safety tips in English for a motorcyclist, focusing on speed control and lane positioning, each as a single imperative sentence.",
+    "From {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, provide two anticipatory advice statements for a motorbike rider. Each should be 1–2 sentences, imperative, and in clear English.",
+    "Based on {DESCRIPTION_SCÈNE} and {LISTE_OBJETS}, suggest five quick safety actions for a motorcycle rider, each written as a short imperative sentence in English (e.g., “Check your mirror,” “Signal early”)."
+  ]
+
+} 

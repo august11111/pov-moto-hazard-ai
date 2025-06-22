@@ -1,0 +1,422 @@
+[
+  {
+    "frame_id": 0,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: CAUTION\nInstruction: Reduce speed immediately!"
+  },
+  {
+    "frame_id": 0,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**Most Urgent Hazard:** White car directly ahead, potential collision imminent.\n\n**IMPERATIVE ACTION:** SLOW DOWN NOW TO AVOID COLLISION!"
+  },
+  {
+    "frame_id": 0,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution\nCheck mirrors and blind spots."
+  },
+  {
+    "frame_id": 0,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nPedestrians approaching the motorcycle.\n\n**IMPERATIVE ACTION**: SLOW DOWN IMMEDIATELY TO AVOID COLLISION."
+  },
+  {
+    "frame_id": 30,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution\nCheck left lane before passing"
+  },
+  {
+    "frame_id": 30,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "WARNING: IMPENDING MERGE CARS IN FRONT AND LEFT.\n\nIMMEDIATELY SLOW DOWN TO MINIMUM SAFE SPEED NOW."
+  },
+  {
+    "frame_id": 30,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution Merge with Caution, Watch Left"
+  },
+  {
+    "frame_id": 30,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Based on the image, I have identified the single most urgent hazard:\n\n**Traffic Light**\n\n Imperative action: **SLAM ON BRAKES IMMEDIATELY!**"
+  },
+  {
+    "frame_id": 60,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution: Come to a complete stop immediately."
+  },
+  {
+    "frame_id": 60,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Hazard Identification:** Multiple pedestrians and obstacles in road.\n\n**Imperative Action:** SLAM ON BRAKES NOW TO AVOID COLLISION!"
+  },
+  {
+    "frame_id": 60,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "**Danger: Merge Cautionly**\nCheck blind spots frequently."
+  },
+  {
+    "frame_id": 60,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**Most Critical Hazard:** Pedestrian on the Right Side\n\n**IMMEDIATE ACTION REQUIRED:**\n\n\"SLAM ON BRAKES TO AVOID COLLISION!\""
+  },
+  {
+    "frame_id": 90,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "CAUTION YIELD TO ONCOMING VEHICLES IMMEDIATELY"
+  },
+  {
+    "frame_id": 90,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**IMPERATIVE ACTION**: REDUCE SPEED IMMEDIATELY TO 60KM/H TO AVOID COLLISION!"
+  },
+  {
+    "frame_id": 90,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger! Yield to oncoming traffic."
+  },
+  {
+    "frame_id": 90,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**Most Urgent Hazard:** Pedestrian (Object 1) in immediate danger of being struck.\n\n**IMMEDIATE ACTION REQUIRED:** **SLAM ON BRAKES**"
+  },
+  {
+    "frame_id": 120,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Danger\nInstruction: STOP IMMEDIATELY AND CHECK AHEAD"
+  },
+  {
+    "frame_id": 120,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**IMMEDIATE ACTION REQUIRED:**\nSLAM ON BRAKES AND SLOW DOWN IMMEDIATELY!"
+  },
+  {
+    "frame_id": 120,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Yield to pedestrian."
+  },
+  {
+    "frame_id": 120,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**WARNING: Pedestrian Crosswalk**\n\n\"SLAM ON BRAKES, MAINTAIN DISTANCE NOW!\""
+  },
+  {
+    "frame_id": 150,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution: Check mirrors and blind spots."
+  },
+  {
+    "frame_id": 150,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nSingle most urgent hazard: Blue vehicle crossing lane boundaries towards intersection.\n\n**IMMEDIATE ACTION:** SLAM ON BRAKES TO MAINTAIN CONTROL."
+  },
+  {
+    "frame_id": 150,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "**Danger: Slow Down**\n Yield to Pedestrians and Van."
+  },
+  {
+    "frame_id": 150,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**WARNING: Pedestrians on the left side of the road**\n\nSLAM ON BRAKES NOW TO AVOID IMPACT!"
+  },
+  {
+    "frame_id": 180,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down immediately"
+  },
+  {
+    "frame_id": 180,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nObject: Blue Car (Approaching from Right)\n\nImperative Action: **Maintain Safe Distance, Reduce Speed Now!**"
+  },
+  {
+    "frame_id": 180,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Slowing Down Now"
+  },
+  {
+    "frame_id": 180,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nThe single most urgent hazard present in the scene is:\n\n**Red Car: Type: Moving vehicle, Location: Middle of the road, approaching from the opposite direction, Direction: Towards the camera.**\n\n**IMPERATIVE ACTION:** \"SLIGHTLY BRAKE, PREPARE TO STOP\""
+  },
+  {
+    "frame_id": 210,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution Be Aware of Pedestrian Ahead"
+  },
+  {
+    "frame_id": 210,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Based on the current scene, I identify the single most urgent hazard as:\n\n**Pedestrian crossing**\n\nImperative action:\n\"BRING VEHICLE TO A SLOW AND SAFE STOP IMMEDIATELY.\""
+  },
+  {
+    "frame_id": 210,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Reduce Speed"
+  },
+  {
+    "frame_id": 210,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Urgent Hazard:** Oncoming Vehicles\n\n**Imperative Action:** **SLAM ON BRAKES!**"
+  },
+  {
+    "frame_id": 240,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "CAUTION: Yield to oncoming vehicle immediately!"
+  },
+  {
+    "frame_id": 240,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n OBJECT: Approaching Car (Lane Change Hazard)\n\n**IMPERATIVE ACTION**: STEER LEFT TO MAINTAIN CENTER LANE."
+  },
+  {
+    "frame_id": 240,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Watch for pedestrians on the sidewalk."
+  },
+  {
+    "frame_id": 240,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Warning Level: CRITICAL\n\nUrgent Hazard Detected:\n\n**Vehicle in Front** is too close and not maintaining a safe distance from the motorcycle.\n\nIMMEDIATE ACTION REQUIRED: SLOW DOWN TO 30 MPH OR LESS."
+  },
+  {
+    "frame_id": 270,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution\nCheck blind spots regularly."
+  },
+  {
+    "frame_id": 270,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nThe single most urgent hazard is the vehicle ahead on the road.\n\nIMPERATIVE ACTION: SLAM ON BRAKES IMMEDIATELY TO MAINTAIN DISTANCE!"
+  },
+  {
+    "frame_id": 270,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution Slow Down and Watch Rear"
+  },
+  {
+    "frame_id": 270,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Urgent Hazard:** Motorcycle handlebars in foreground.\n\n**Imperative Action:** Yield to motorcycle, maintain safe distance immediately!"
+  },
+  {
+    "frame_id": 300,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow Down, Scan Surroundings"
+  },
+  {
+    "frame_id": 300,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "OBJECTS:\n- A cyclist is approaching, traveling in the opposite direction.\n\nIMPERATIVE ACTION: YIELD TO CYCLIST, SLOW DOWN IMMEDIATELY."
+  },
+  {
+    "frame_id": 300,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down to clear pedestrian"
+  },
+  {
+    "frame_id": 300,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD: Pedestrian approaching from the left**\n\n**IMPERATIVE ACTION:** SLOW DOWN IMMEDIATELY AND GIVE WIDE PASSAGE!"
+  },
+  {
+    "frame_id": 330,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution\nCheck traffic signs and yield slowly."
+  },
+  {
+    "frame_id": 330,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Hazard Identification:** Pedestrians crossing the road ahead with little visibility.\n\n**Imperative Action:** SLOW DOWN IMMEDIATELY TO AVOID COLLISION!"
+  },
+  {
+    "frame_id": 330,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "**Danger**: Merge with Caution Now."
+  },
+  {
+    "frame_id": 330,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD IDENTIFICATION AND IMPERATIVE ACTION**\n\nBased on the provided scene data, the single most urgent hazard is:\n\n**OPPOSING TRAFFIC: VEHICLES COMING FROM THE OPPOSITE DIRECTION**\n\nIMPERATIVE ACTION: **DECELERATE TO MINIMUM SPEED IMMEDIATELY TO AVOID COLLISION**"
+  },
+  {
+    "frame_id": 360,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down for pedestrian crossing area."
+  },
+  {
+    "frame_id": 360,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD**: Pedestrian in direct path, immediate caution required.\n\nIMPERATIVE ACTION: SLOW DOWN AND GIVE PEDESTRIAN SPACE NOW."
+  },
+  {
+    "frame_id": 360,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down now!"
+  },
+  {
+    "frame_id": 360,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Urgent Hazard Identified: **Pedestrian** in Danger of Collision.\n\nImperative Action: **SLOW DOWN IMMEDIATELY TO AVOID COLLISION.**"
+  },
+  {
+    "frame_id": 390,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Reduce speed and watch pedestrian traffic."
+  },
+  {
+    "frame_id": 390,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD:** Pedestrian approaching from intersection in front of vehicle.\n\n**IMPERATIVE ACTION:** SLAM ON BRAKES, PREPARE TO STOP IMMEDIATELY."
+  },
+  {
+    "frame_id": 390,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down and watch for pedestrians"
+  },
+  {
+    "frame_id": 390,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Hazard Identification:** Tram Tracks\n\n**Urgent Imperative Action:**\n**SLIGHTEN STEERING, AVOID TRAM TRACKS.**"
+  },
+  {
+    "frame_id": 420,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution: Look out for cars and tram tracks ahead."
+  },
+  {
+    "frame_id": 420,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "WARNING:Pedestrian Ahead!\n\nIMPERATIVE ACTION: SLOW DOWN IMMEDIATELY TO AVOID COLLISION!"
+  },
+  {
+    "frame_id": 420,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution\nAdjust speed now!"
+  },
+  {
+    "frame_id": 420,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**IMPERATIVE ACTION:** **STOP IMMEDIATELY AND CHECK BEHIND YOU!**\n\nThe single most urgent hazard in this scene is the road hazard of **Tram Tracks**, which spans the entire roadway and runs parallel to the direction of travel. The presence of tram tracks increases the risk of a collision, especially considering the high speed of vehicles on this road."
+  },
+  {
+    "frame_id": 450,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Safe\nMaintain speed, be alert for unexpected obstacles."
+  },
+  {
+    "frame_id": 450,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED:**\n\nObject detected: Pedestrian stepping off curb into lane.\n\n**IMMEDIATE ACTION REQUIRED:**\n\nSLOW DOWN IMMEDIATELY TO PREVENT HIT-AND-RUN INCIDENT."
+  },
+  {
+    "frame_id": 450,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Check cyclist direction before passing!"
+  },
+  {
+    "frame_id": 450,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "URGENT ALERT: Cyclist in extreme foreground, exercise caution immediately."
+  },
+  {
+    "frame_id": 480,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Safe\nCheck traffic signal ahead immediately"
+  },
+  {
+    "frame_id": 480,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Alert driver of approaching pedestrian with uncertain intentions."
+  },
+  {
+    "frame_id": 480,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "**Danger**: Yield to Pedestrians.\n\n**Caution**: Slow Down for Cars."
+  },
+  {
+    "frame_id": 480,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\nSingle most urgent hazard: **Railway Tracks (type)**\n\n**IMMEDIATE ACTION REQUIRED:** **SLAM ON BRAKES NOW**"
+  },
+  {
+    "frame_id": 510,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Yield to pedestrian on left"
+  },
+  {
+    "frame_id": 510,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**ALERT**\n\nMost Urgent Hazard: Pedestrian on Left Side of Road\n\nIMMEDIATE ACTION: SLOW DOWN AND BE AWARE."
+  },
+  {
+    "frame_id": 510,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Stop Immediately"
+  },
+  {
+    "frame_id": 510,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD IDENTIFICATION**\n\nBased on the scene analysis, I identify the single most urgent hazard as:\n\n**Pedestrian**\n\n**IMPERATIVE ACTION**\n\n\"STOP AND PROCEED WITH CAUTION!\""
+  },
+  {
+    "frame_id": 540,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Check surrounding intersections regularly"
+  },
+  {
+    "frame_id": 540,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Objects detected: Motorcyclist, 200 meters ahead, uncertain trajectory.\n\n Urgent hazard: Potential collision with motorcyclist.\n\nIMMEDIATE ACTION: Maintain speed and following distance."
+  },
+  {
+    "frame_id": 540,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Caution Be aware of pedestrian bridge."
+  },
+  {
+    "frame_id": 540,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Urgent Hazard:** Pedestrian Crossing Signal\n\n**Imperative Action:** Reduce Speed and Be Alert!"
+  },
+  {
+    "frame_id": 570,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Check Traffic Lights Before Merging"
+  },
+  {
+    "frame_id": 570,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**URGENT HAZARD DETECTED**\n\n**IMPERATIVE ACTION:** CHECK NEXT TRAFFIC LIGHT BEFORE Merging or Changing Lanes.\n\nTriggered by traffic light detection system."
+  },
+  {
+    "frame_id": 570,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Danger: Stop\nCheck Traffic Light"
+  },
+  {
+    "frame_id": 570,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Based on the scene and objects provided, I identify the single most urgent hazard as:\n\n**Vehicle Instrument Cluster**\n\nImperative action: **STOP IMMEDIATELY**\n\nThis is because the vehicle instrument cluster is directly in front of the viewer, occupying a significant portion of the image. Its presence may indicate a parked or stopped vehicle, which could pose a collision risk to other road users. The imperative action \"STOP IMMEDIATELY\" prioritizes caution and safety in this situation."
+  },
+  {
+    "frame_id": 600,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Caution\nInstruction: Slow down, be alert now"
+  },
+  {
+    "frame_id": 600,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "Hazard Priority: Pedestrian Crossing Ahead with Limited Visibility.\n\nImperative Action: REDUCE SPEED IMMEDIATELY TO PREVENT COLLISION!"
+  },
+  {
+    "frame_id": 600,
+    "prompt_variant": "You are a motorcycle safety HUD. Given SCENE and OBJECTS, output one-word alert (Danger/Caution/Safe) and an imperative instruction (max 8 words).",
+    "advice_text": "Alert: Danger\nInstruction: Stop immediately at red light."
+  },
+  {
+    "frame_id": 600,
+    "prompt_variant": "You are an ADAS system. From SCENE and OBJECTS, identify the single most urgent hazard and give a 5-10 word imperative action.",
+    "advice_text": "**Most Urgent Hazard:** Cyclist\n\n**Imperative Action:** SLOW DOWN IMMEDIATELY TO AVOID COLLISION"
+  }
+]

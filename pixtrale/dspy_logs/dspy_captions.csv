@@ -1,0 +1,347 @@
+frame_id,timestamp,prompt_variant,caption_text
+0,0.10510635375976562,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The imminent hazards include an oncoming white van directly ahead and another car approaching from the opposite direction on the left side. Additionally, there are crossing pedestrians and the presence of multiple vehicles at the intersection, suggesting a busy traffic area."
+0,0.10510635375976562,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Car**: 
+  - Type: White SUV
+  - Location: Approximately mid-frame, on the road
+  - Direction: Moving towards the viewer (opposite direction)
+
+- **Pedestrian**:
+  - Type: Person crossing the street
+  - Location: Left side of the image, near the crosswalk
+  - Direction: Moving from left to right
+
+- **Traffic Light**:
+  - Type: Traffic light (partially visible)
+  - Location: Right side of the image, near the building
+  - Direction: Facing the viewer"
+30,0.10510635375976562,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In the image, there are several vehicles visible ahead on the road, including cars and a truck, which could pose potential hazards if they brake suddenly or change lanes. Additionally, there is a traffic light on the right side of the image, indicating the need to be aware of upcoming traffic signals."
+30,0.10510635375976562,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image provided, here are three critical objects or hazards present in the scene:
+
+- **Vehicles on the road**:
+  - Type: Cars
+  - Location: On the street ahead
+  - Direction: Moving in both directions
+
+- **Other road users (e.g., pedestrians, bicyclists)**:
+  - Type: Potential pedestrians and other road users (not clearly visible, but typically present in urban areas)
+  - Location: Along the sides of the road or potentially crossing the street
+  - Direction: Various, including moving across the road
+
+- **Traffic light**:
+  - Type: Traffic light
+  - Location: On the right side of the road ahead
+  - Direction: Facing the viewer, indicating the traffic flow direction"
+60,0.10510635375976562,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","There is a motorcycle directly ahead, and another vehicle is partially visible in the left part of the frame, both presenting potential collision risks. Additionally, there is a pedestrian on the right side of the road who may step onto the street unexpectedly."
+60,0.10510635375976562,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Cyclist:**
+  - **Location:** In the center-left of the image, near the car's windshield.
+  - **Direction:** Moving from left to right.
+
+- **Traffic Light:**
+  - **Location:** On the right side of the image, above the road.
+  - **Direction:** Stationary, facing the road.
+
+- **Pedestrians:**
+  - **Location:** On the right side of the image, near the traffic light.
+  - **Direction:** Seemingly stationary or crossing the road."
+90,0.10510635375976562,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","A motorcycle is directly in front of the viewer, and there are several vehicles visible on the road ahead. There is a traffic sign on the right side of the road, and multiple other vehicles can be seen in the distance."
+90,0.10510635375976562,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image provided, here are up to three critical objects or hazards present in the scene:
+
+- **Pedestrians (Type):** 
+  - **Location:** On the left side of the street near the buildings.
+  - **Direction:** Possibly crossing the street or walking along the sidewalk.
+
+- **Vehicles (Type):**
+  - **Location:** In the middle of the street, visible in the distance.
+  - **Direction:** Likely moving forward along the road.
+
+- **Side Mirror (Type):** 
+  - **Location:** On the left side of the image, attached to the vehicle the viewer is in.
+  - **Direction:** Reflecting the scene behind the vehicle."
+120,276.88068294525146,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The image shows a pedestrian crossing the street immediately in front of the vehicle. Additionally, there are other vehicles on the road and a pedestrian on the right side, which require attention to avoid potential hazards."
+120,276.88068294525146,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Sure, here are three critical objects or hazards present in the scene:
+
+- **Pedestrian Crossing:**
+  - Type: Crosswalk
+  - Location: Foreground, center of the image
+  - Direction: Perpendicular to the direction of the vehicle
+
+- **Traffic Light:**
+  - Type: Traffic signal
+  - Location: Left side of the image, near the top corner of the building
+  - Direction: Facing towards the vehicle (facing the camera)
+
+- **Building Shadow:**
+  - Type: Shadow of the building
+  - Location: Right side of the image, over the road
+  - Direction: Cast diagonally across the scene, potentially affecting visibility"
+150,276.88068294525146,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The driver is closely following a blue car in front, and a white van is approaching from the opposite direction. Additionally, there are parked cars on both sides of the street which may obstruct visibility and maneuverability."
+150,276.88068294525146,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Here are three critical objects or hazards present in the scene:
+
+- **Pedestrians on the roadside:** 
+  - Location: Left side of the road, near the buildings.
+  - Direction: Moving or standing parallel to the road.
+
+- **White van:**
+  - Location: Ahead in the center of the road.
+  - Direction: Moving away from the viewer in the same direction as the motorbike.
+
+- **Blue bus:**
+  - Location: Ahead on the right side of the road.
+  - Direction: Stationary or moving slowly in the same direction as the motorbike."
+180,276.88068294525146,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The rider is approaching a narrow road with parked cars on both sides, creating potential obstacles. Immediate hazards include a blue car on the right and a red car ahead on the left, as well as possible pedestrians who could emerge from between the parked vehicles."
+180,276.88068294525146,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image:
+
+- **Stationary Vehicles on Road:**
+  - Location: Middle of the road in the distance.
+  - Direction: Facing towards the camera, indicating they are either parked or waiting in traffic.
+
+- **Cyclist or Biker:**
+  - Location: Foreground of the image, driving on the road.
+  - Direction: Moving forward along the road, towards the stationary vehicles.
+
+- **Approaching Vehicles (from opposite direction):**
+  - Location: Left side of the road.
+  - Direction: Coming towards the camera from the opposite direction."
+210,276.88068294525146,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","There are multiple vehicles parked along the right side of the road, which may require attention while overtaking or passing. No immediate pedestrians or traffic signs are visible, but caution should be exercised due to the oncoming traffic on the left side."
+210,276.88068294525146,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Here are three critical objects or hazards present in the scene:
+
+- **Cars parked on the left side of the road**:
+  - Type: Parked vehicles.
+  - Location: Left side of the street.
+  - Direction: Stationary, parallel to the road.
+
+- **Oncoming vehicle near the right side**:
+  - Type: Oncoming vehicle.
+  - Location: Right side of the road.
+  - Direction: Towards the camera.
+
+- **Cyclist riding in the foreground**:
+  - Type: Vulnerable road user (cyclist).
+  - Location: Center-foreground of the image.
+  - Direction: Moving forward (same direction as the camera)."
+240,513.9646265506744,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In the image, there is a truck on the right side of the road ahead, and a few vehicles are visible further down the road. There are also some pedestrians on the left sidewalk closer to the foreground."
+240,513.9646265506744,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Vehicle on the Right:**
+  - **Type:** Car
+  - **Location:** Right side of the road
+  - **Direction:** Moving in the same direction as the motorcycle
+
+- **Pedestrian on the Left:**
+  - **Type:** Person walking
+  - **Location:** Left sidewalk
+  - **Direction:** Moving in the opposite direction of the motorcycle
+
+- **Buildings and Walls:**
+  - **Type:** Structures along the road
+  - **Location:** Both sides of the road
+  - **Direction:** Stationary, but can obscure the view of potential hazards coming from side streets"
+270,513.9646265506744,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","There is a car closely positioned in the right lane which could be a potential hazard if it merges without signaling. Additionally, the parked cars on the left side of the road may obstruct visibility of pedestrians stepping out from between them."
+270,513.9646265506744,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Cars on the Road:**
+  - **Type:** Vehicles
+  - **Location:** On both sides of the road, visible in the distance.
+  - **Direction:** Moving in both directions along the road.
+
+- **Pedestrians/Bystanders:**
+  - **Type:** People
+  - **Location:** On the sidewalks to the left and right of the road.
+  - **Direction:** Stationary or moving parallel to the road.
+
+- **Motorcycle Handlebars:**
+  - **Type:** Motorcycle Controls
+  - **Location:** In the foreground, directly in front of the viewer.
+  - **Direction:** Facing forward along the road."
+300,513.9646265506744,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",The imminent hazards include a car on the right edge of the road and another car further ahead on the left side of the road. There are also a few pedestrians and parked cars along both sides of the road.
+300,513.9646265506744,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Here are three critical objects or hazards present in the scene:
+
+- **Oncoming Vehicle:**
+  - **Type:** Car
+  - **Location:** Right side of the road, approaching from the opposite direction
+  - **Direction:** Towards the viewer
+
+- **Pedestrians:**
+  - **Type:** People
+  - **Location:** Left side of the road, near the sidewalk
+  - **Direction:** Potentially crossing the road or walking along the sidewalk
+
+- **Cyclist:**
+  - **Type:** Person on a bicycle
+  - **Location:** Left side of the road, riding in the same direction as the viewer
+  - **Direction:** Moving away from the viewer"
+330,513.9646265506744,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","There is a vehicle directly ahead in the lane, and another vehicle is visible on the left side of the road. There are no immediate pedestrians or traffic signs visible that pose a hazard."
+330,513.9646265506744,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the scene depicted in the image:
+
+- **Cars on the left side of the road:**
+  - **Type:** Motor vehicles
+  - **Location:** Left-hand side of the road
+  - **Direction:** Moving towards the viewer or parked along the roadside
+
+- **Buildings along the road:**
+  - **Type:** Structures (Residential or commercial buildings)
+  - **Location:** Both sides of the road
+  - **Direction:** Stationary
+
+- **Railway tracks running parallel to the road:**
+  - **Type:** Railway tracks
+  - **Location:** On the left side of the road, beside the cars
+  - **Direction:** Runs parallel to the road, extending into the distance"
+360,762.4960744380951,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In the image, there are several parked cars along the sides of the road and a few pedestrians walking on the sidewalk. A vehicle is approaching from the opposite direction, which the rider should be aware of to avoid any potential collision."
+360,762.4960744380951,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Here are three critical objects or hazards present in the scene:
+
+- **Cars on the Road:**
+  - Type: Vehicles
+  - Location: On the road, ahead of the motorcycle
+  - Direction: Traveling in the opposite direction
+
+- **Tracks on the Road:**
+  - Type: Railway or tram tracks
+  - Location: Embedded in the middle of the road surface
+  - Direction: Running parallel to the direction of travel
+
+- **Pedestrian:**
+  - Type: Person
+  - Location: Near the left edge of the pathway, approaching the road
+  - Direction: Moving towards the road from the left side"
+390,762.4960744380951,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The primary imminent hazard is the presence of several pedestrians crossing the road ahead. There are also multiple vehicles in the vicinity, including a bus to the right, which could pose a risk if they make sudden stops or maneuvers."
+390,762.4960744380951,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","In the image, the scene is from the perspective of a person riding a motorcycle or bicycle. Here are three critical objects or hazards present:
+
+- **Vehicles on the road:**
+  - **Type:** Cars
+  - **Location:** On the road ahead
+  - **Direction:** Moving in both directions on the multi-lane road
+
+- **Tram Tracks:**
+  - **Type:** Tram Tracks
+  - **Location:** Center of the road
+  - **Direction:** Running parallel to the direction of travel
+
+- **Pedestrians and Cyclists:**
+  - **Type:** Pedestrians and Cyclists (potential presence)
+  - **Location:** Possibly near the buildings and sidewalks
+  - **Direction:** Can enter or cross the road from either side
+
+These objects and potential hazards require attention and caution while navigating the road."
+420,762.4960744380951,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In this image, there are multiple pedestrians on the road ahead, posing a potential hazard. Additionally, the tram tracks in the middle of the road could affect vehicle handling if not navigated carefully."
+420,762.4960744380951,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Tram Tracks:**
+  - Type: Tram tracks embedded in the road.
+  - Location: Center of the road.
+  - Direction: Running longitudinally along the street.
+
+- **Pedestrians:**
+  - Type: People walking on the sidewalks.
+  - Location: Both sides of the street.
+  - Direction: Moving parallel to the road.
+
+- **Buildings:**
+  - Type: Multi-storied buildings flanking the street.
+  - Location: Both sides of the street.
+  - Direction: Static and lining the road."
+450,762.4960744380951,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In the image, there are vehicles parked on the left side of the road, and a few pedestrians are visible further ahead. There are also tram tracks running down the center of the street, which poses a potential hazard for the cyclist."
+450,762.4960744380951,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the provided image:
+
+- **Cars on the Road**:
+  - **Type**: Vehicles (cars)
+  - **Location**: On the road, in both directions
+  - **Direction**: Moving towards and away from the camera's viewpoint
+
+- **Tram Tracks**:
+  - **Type**: Tram tracks
+  - **Location**: Embedded in the road surface
+  - **Direction**: Running parallel to the direction of the road
+
+- **Pedestrians**:
+  - **Type**: Pedestrians
+  - **Location**: On the sidewalks beside the road
+  - **Direction**: Walking in various directions along the sidewalks"
+480,1017.0072147846222,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The driver ahead is stopped and there's a traffic light further down the road that may change at any moment. Pedestrians are visible on the sidewalks, and there are parked cars that could pull out into the street."
+480,1017.0072147846222,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Based on the image, here are three critical objects or hazards present in the scene:
+
+- **Vehicles Ahead**:
+  - Type: Cars
+  - Location: Middle of the road
+  - Direction: Moving forward
+
+- **Buildings and Trees**:
+  - Type: Structures and vegetation
+  - Location: Both sides of the road
+  - Direction: Stationary
+
+- **Pedestrian Crossings**:
+  - Type: Crosswalk
+  - Location: Across the road
+  - Direction: Transverse (perpendicular to the direction of the road)"
+510,1017.0072147846222,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","In the image, there are two cars ahead on the road and a traffic light that is red, indicating the driver should stop. Additionally, there are some pedestrians visible on the sidewalks, posing potential hazards if they were to suddenly move onto the road."
+510,1017.0072147846222,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","From the image, the following critical objects or hazards can be identified:
+
+- **Oncoming Vehicle (white car):**
+  - Location: Left side of the road, ahead.
+  - Direction: Approaching from the opposite direction.
+
+- **Pedestrians:**
+  - Location: Sidewalks on both sides of the road.
+  - Direction: Walking or standing on either side.
+
+- **Side Mirrors:**
+  - Location: Close to the viewer, on either side of the vehicle the image is taken from.
+  - Direction: Extending outward from the vehicle."
+540,1017.0072147846222,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","The image shows a clear road ahead with no immediate vehicles or pedestrians in the path. However, there is a slight blurriness which might obscure any smaller details or distant hazards."
+540,1017.0072147846222,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Certainly! Based on the image, here are three critical objects or hazards in the scene:
+
+- **Oncoming Vehicle**: 
+  - Type: Car
+  - Location: Center lane, approaching the viewer's vehicle
+  - Direction: Coming towards the viewer
+
+- **Cyclist**:
+  - Type: Bicycle rider
+  - Location: Left side of the road, in the bike lane
+  - Direction: Moving in the same direction as the viewer
+
+- **Pedestrians/Sidewalk**:
+  - Type: People walking on the sidewalk
+  - Location: Right side of the road
+  - Direction: Moving in various directions along the sidewalk"
+570,1017.0072147846222,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.",The image shows an empty road ahead with no immediate vehicles or pedestrians. There are no visible traffic signs in the immediate vicinity indicating any hazards.
+570,1017.0072147846222,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Here are three critical objects or hazards present in the scene along with their types, locations, and directions:
+
+- **Motorcycle Handlebars:**
+  - **Type:** Motorcycle component
+  - **Location:** Foreground
+  - **Direction:** Straight ahead
+  
+- **Traffic Light:**
+  - **Type:** Traffic control device
+  - **Location:** Middle ground, ahead on the right side of the road
+  - **Direction:** Facing the viewer
+  
+- **Buildings and Storefronts:**
+  - **Type:** Stationary structures
+  - **Location:** Along both sides of the street
+  - **Direction:** Parallel to the road on both sides
+
+These objects and hazards are significant for ensuring the rider's safety and awareness while navigating this urban environment."
+600,1243.6649188995361,"Describe only the imminent hazards (vehicles, pedestrians, traffic signs) in no more than 2 sentences in English.","There are no imminent hazards directly in front of the bicycle, but there are vehicles parked on the left side of the street and pedestrians on the sidewalk. The traffic light ahead is green, indicating it is safe to proceed."
+600,1243.6649188995361,"List up to three critical objects or hazards present in the scene: type, location, direction. Use bullet points in English.","Sure, here are three critical objects or hazards present in the scene:
+
+- **Traffic Lights**:
+  - **Type**: Traffic control device.
+  - **Location**: In the middle of the intersection.
+  - **Direction**: Directly ahead and slightly to the left.
+
+- **Bus**:
+  - **Type**: Large vehicle.
+  - **Location**: On the left side of the road.
+  - **Direction**: Stationary or moving slowly to the right.
+
+- **Pedestrians**:
+  - **Type**: People crossing or near the road.
+  - **Location**: Near the bus on the left side.
+  - **Direction**: Appear to be moving away from the road, heading left."

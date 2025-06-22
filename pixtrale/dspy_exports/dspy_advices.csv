@@ -1,0 +1,253 @@
+frame_id,timestamp,prompt_variant,scene_description,objects_json,advice_text
+0,0.07121443748474121,,,,"Alert: CAUTION
+Instruction: Reduce speed immediately!"
+0,0.07121443748474121,,,,"**URGENT HAZARD DETECTED**
+
+**Most Urgent Hazard:** White car directly ahead, potential collision imminent.
+
+**IMPERATIVE ACTION:** SLOW DOWN NOW TO AVOID COLLISION!"
+0,0.07121443748474121,,,,"Caution
+Check mirrors and blind spots."
+0,0.07121443748474121,,,,"**URGENT HAZARD DETECTED**
+
+Pedestrians approaching the motorcycle.
+
+**IMPERATIVE ACTION**: SLOW DOWN IMMEDIATELY TO AVOID COLLISION."
+30,0.07121443748474121,,,,"Caution
+Check left lane before passing"
+30,0.07121443748474121,,,,"WARNING: IMPENDING MERGE CARS IN FRONT AND LEFT.
+
+IMMEDIATELY SLOW DOWN TO MINIMUM SAFE SPEED NOW."
+30,0.07121443748474121,,,,"Caution Merge with Caution, Watch Left"
+30,0.07121443748474121,,,,"Based on the image, I have identified the single most urgent hazard:
+
+**Traffic Light**
+
+ Imperative action: **SLAM ON BRAKES IMMEDIATELY!**"
+60,0.07121443748474121,,,,Caution: Come to a complete stop immediately.
+60,0.07121443748474121,,,,"**Hazard Identification:** Multiple pedestrians and obstacles in road.
+
+**Imperative Action:** SLAM ON BRAKES NOW TO AVOID COLLISION!"
+60,0.07121443748474121,,,,"**Danger: Merge Cautionly**
+Check blind spots frequently."
+60,0.07121443748474121,,,,"**URGENT HAZARD DETECTED**
+
+**Most Critical Hazard:** Pedestrian on the Right Side
+
+**IMMEDIATE ACTION REQUIRED:**
+
+""SLAM ON BRAKES TO AVOID COLLISION!"""
+90,0.07121443748474121,,,,CAUTION YIELD TO ONCOMING VEHICLES IMMEDIATELY
+90,0.07121443748474121,,,,"**URGENT HAZARD DETECTED**
+
+**IMPERATIVE ACTION**: REDUCE SPEED IMMEDIATELY TO 60KM/H TO AVOID COLLISION!"
+90,0.07121443748474121,,,,Danger! Yield to oncoming traffic.
+90,0.07121443748474121,,,,"**URGENT HAZARD DETECTED**
+
+**Most Urgent Hazard:** Pedestrian (Object 1) in immediate danger of being struck.
+
+**IMMEDIATE ACTION REQUIRED:** **SLAM ON BRAKES**"
+120,248.66439270973206,,,,"Alert: Danger
+Instruction: STOP IMMEDIATELY AND CHECK AHEAD"
+120,248.66439270973206,,,,"**URGENT HAZARD DETECTED**
+
+**IMMEDIATE ACTION REQUIRED:**
+SLAM ON BRAKES AND SLOW DOWN IMMEDIATELY!"
+120,248.66439270973206,,,,Danger: Yield to pedestrian.
+120,248.66439270973206,,,,"**WARNING: Pedestrian Crosswalk**
+
+""SLAM ON BRAKES, MAINTAIN DISTANCE NOW!"""
+150,248.66439270973206,,,,Caution: Check mirrors and blind spots.
+150,248.66439270973206,,,,"**URGENT HAZARD DETECTED**
+
+Single most urgent hazard: Blue vehicle crossing lane boundaries towards intersection.
+
+**IMMEDIATE ACTION:** SLAM ON BRAKES TO MAINTAIN CONTROL."
+150,248.66439270973206,,,,"**Danger: Slow Down**
+ Yield to Pedestrians and Van."
+150,248.66439270973206,,,,"**WARNING: Pedestrians on the left side of the road**
+
+SLAM ON BRAKES NOW TO AVOID IMPACT!"
+180,248.66439270973206,,,,"Alert: Caution
+Instruction: Slow down immediately"
+180,248.66439270973206,,,,"**URGENT HAZARD DETECTED**
+
+Object: Blue Car (Approaching from Right)
+
+Imperative Action: **Maintain Safe Distance, Reduce Speed Now!**"
+180,248.66439270973206,,,,Danger: Slowing Down Now
+180,248.66439270973206,,,,"**URGENT HAZARD DETECTED**
+
+The single most urgent hazard present in the scene is:
+
+**Red Car: Type: Moving vehicle, Location: Middle of the road, approaching from the opposite direction, Direction: Towards the camera.**
+
+**IMPERATIVE ACTION:** ""SLIGHTLY BRAKE, PREPARE TO STOP"""
+210,248.66439270973206,,,,Caution Be Aware of Pedestrian Ahead
+210,248.66439270973206,,,,"Based on the current scene, I identify the single most urgent hazard as:
+
+**Pedestrian crossing**
+
+Imperative action:
+""BRING VEHICLE TO A SLOW AND SAFE STOP IMMEDIATELY."""
+210,248.66439270973206,,,,Danger: Reduce Speed
+210,248.66439270973206,,,,"**Urgent Hazard:** Oncoming Vehicles
+
+**Imperative Action:** **SLAM ON BRAKES!**"
+240,462.66312193870544,,,,CAUTION: Yield to oncoming vehicle immediately!
+240,462.66312193870544,,,,"**URGENT HAZARD DETECTED**
+
+ OBJECT: Approaching Car (Lane Change Hazard)
+
+**IMPERATIVE ACTION**: STEER LEFT TO MAINTAIN CENTER LANE."
+240,462.66312193870544,,,,Danger: Watch for pedestrians on the sidewalk.
+240,462.66312193870544,,,,"Warning Level: CRITICAL
+
+Urgent Hazard Detected:
+
+**Vehicle in Front** is too close and not maintaining a safe distance from the motorcycle.
+
+IMMEDIATE ACTION REQUIRED: SLOW DOWN TO 30 MPH OR LESS."
+270,462.66312193870544,,,,"Caution
+Check blind spots regularly."
+270,462.66312193870544,,,,"**URGENT HAZARD DETECTED**
+
+The single most urgent hazard is the vehicle ahead on the road.
+
+IMPERATIVE ACTION: SLAM ON BRAKES IMMEDIATELY TO MAINTAIN DISTANCE!"
+270,462.66312193870544,,,,Caution Slow Down and Watch Rear
+270,462.66312193870544,,,,"**Urgent Hazard:** Motorcycle handlebars in foreground.
+
+**Imperative Action:** Yield to motorcycle, maintain safe distance immediately!"
+300,462.66312193870544,,,,"Alert: Caution
+Instruction: Slow Down, Scan Surroundings"
+300,462.66312193870544,,,,"OBJECTS:
+- A cyclist is approaching, traveling in the opposite direction.
+
+IMPERATIVE ACTION: YIELD TO CYCLIST, SLOW DOWN IMMEDIATELY."
+300,462.66312193870544,,,,"Alert: Caution
+Instruction: Slow down to clear pedestrian"
+300,462.66312193870544,,,,"**URGENT HAZARD: Pedestrian approaching from the left**
+
+**IMPERATIVE ACTION:** SLOW DOWN IMMEDIATELY AND GIVE WIDE PASSAGE!"
+330,462.66312193870544,,,,"Caution
+Check traffic signs and yield slowly."
+330,462.66312193870544,,,,"**Hazard Identification:** Pedestrians crossing the road ahead with little visibility.
+
+**Imperative Action:** SLOW DOWN IMMEDIATELY TO AVOID COLLISION!"
+330,462.66312193870544,,,,**Danger**: Merge with Caution Now.
+330,462.66312193870544,,,,"**URGENT HAZARD IDENTIFICATION AND IMPERATIVE ACTION**
+
+Based on the provided scene data, the single most urgent hazard is:
+
+**OPPOSING TRAFFIC: VEHICLES COMING FROM THE OPPOSITE DIRECTION**
+
+IMPERATIVE ACTION: **DECELERATE TO MINIMUM SPEED IMMEDIATELY TO AVOID COLLISION**"
+360,718.0733127593994,,,,"Alert: Caution
+Instruction: Slow down for pedestrian crossing area."
+360,718.0733127593994,,,,"**URGENT HAZARD**: Pedestrian in direct path, immediate caution required.
+
+IMPERATIVE ACTION: SLOW DOWN AND GIVE PEDESTRIAN SPACE NOW."
+360,718.0733127593994,,,,"Alert: Caution
+Instruction: Slow down now!"
+360,718.0733127593994,,,,"Urgent Hazard Identified: **Pedestrian** in Danger of Collision.
+
+Imperative Action: **SLOW DOWN IMMEDIATELY TO AVOID COLLISION.**"
+390,718.0733127593994,,,,"Alert: Caution
+Instruction: Reduce speed and watch pedestrian traffic."
+390,718.0733127593994,,,,"**URGENT HAZARD:** Pedestrian approaching from intersection in front of vehicle.
+
+**IMPERATIVE ACTION:** SLAM ON BRAKES, PREPARE TO STOP IMMEDIATELY."
+390,718.0733127593994,,,,"Alert: Caution
+Instruction: Slow down and watch for pedestrians"
+390,718.0733127593994,,,,"**Hazard Identification:** Tram Tracks
+
+**Urgent Imperative Action:**
+**SLIGHTEN STEERING, AVOID TRAM TRACKS.**"
+420,718.0733127593994,,,,Caution: Look out for cars and tram tracks ahead.
+420,718.0733127593994,,,,"WARNING:Pedestrian Ahead!
+
+IMPERATIVE ACTION: SLOW DOWN IMMEDIATELY TO AVOID COLLISION!"
+420,718.0733127593994,,,,"Caution
+Adjust speed now!"
+420,718.0733127593994,,,,"**URGENT HAZARD DETECTED**
+
+**IMPERATIVE ACTION:** **STOP IMMEDIATELY AND CHECK BEHIND YOU!**
+
+The single most urgent hazard in this scene is the road hazard of **Tram Tracks**, which spans the entire roadway and runs parallel to the direction of travel. The presence of tram tracks increases the risk of a collision, especially considering the high speed of vehicles on this road."
+450,718.0733127593994,,,,"Safe
+Maintain speed, be alert for unexpected obstacles."
+450,718.0733127593994,,,,"**URGENT HAZARD DETECTED:**
+
+Object detected: Pedestrian stepping off curb into lane.
+
+**IMMEDIATE ACTION REQUIRED:**
+
+SLOW DOWN IMMEDIATELY TO PREVENT HIT-AND-RUN INCIDENT."
+450,718.0733127593994,,,,Danger: Check cyclist direction before passing!
+450,718.0733127593994,,,,"URGENT ALERT: Cyclist in extreme foreground, exercise caution immediately."
+480,981.2474255561829,,,,"Safe
+Check traffic signal ahead immediately"
+480,981.2474255561829,,,,Alert driver of approaching pedestrian with uncertain intentions.
+480,981.2474255561829,,,,"**Danger**: Yield to Pedestrians.
+
+**Caution**: Slow Down for Cars."
+480,981.2474255561829,,,,"**URGENT HAZARD DETECTED**
+
+Single most urgent hazard: **Railway Tracks (type)**
+
+**IMMEDIATE ACTION REQUIRED:** **SLAM ON BRAKES NOW**"
+510,981.2474255561829,,,,"Alert: Caution
+Instruction: Yield to pedestrian on left"
+510,981.2474255561829,,,,"**ALERT**
+
+Most Urgent Hazard: Pedestrian on Left Side of Road
+
+IMMEDIATE ACTION: SLOW DOWN AND BE AWARE."
+510,981.2474255561829,,,,Danger: Stop Immediately
+510,981.2474255561829,,,,"**URGENT HAZARD IDENTIFICATION**
+
+Based on the scene analysis, I identify the single most urgent hazard as:
+
+**Pedestrian**
+
+**IMPERATIVE ACTION**
+
+""STOP AND PROCEED WITH CAUTION!"""
+540,981.2474255561829,,,,"Alert: Caution
+Instruction: Check surrounding intersections regularly"
+540,981.2474255561829,,,,"Objects detected: Motorcyclist, 200 meters ahead, uncertain trajectory.
+
+ Urgent hazard: Potential collision with motorcyclist.
+
+IMMEDIATE ACTION: Maintain speed and following distance."
+540,981.2474255561829,,,,Caution Be aware of pedestrian bridge.
+540,981.2474255561829,,,,"**Urgent Hazard:** Pedestrian Crossing Signal
+
+**Imperative Action:** Reduce Speed and Be Alert!"
+570,981.2474255561829,,,,"Alert: Caution
+Instruction: Check Traffic Lights Before Merging"
+570,981.2474255561829,,,,"**URGENT HAZARD DETECTED**
+
+**IMPERATIVE ACTION:** CHECK NEXT TRAFFIC LIGHT BEFORE Merging or Changing Lanes.
+
+Triggered by traffic light detection system."
+570,981.2474255561829,,,,"Danger: Stop
+Check Traffic Light"
+570,981.2474255561829,,,,"Based on the scene and objects provided, I identify the single most urgent hazard as:
+
+**Vehicle Instrument Cluster**
+
+Imperative action: **STOP IMMEDIATELY**
+
+This is because the vehicle instrument cluster is directly in front of the viewer, occupying a significant portion of the image. Its presence may indicate a parked or stopped vehicle, which could pose a collision risk to other road users. The imperative action ""STOP IMMEDIATELY"" prioritizes caution and safety in this situation."
+600,1226.5626845359802,,,,"Alert: Caution
+Instruction: Slow down, be alert now"
+600,1226.5626845359802,,,,"Hazard Priority: Pedestrian Crossing Ahead with Limited Visibility.
+
+Imperative Action: REDUCE SPEED IMMEDIATELY TO PREVENT COLLISION!"
+600,1226.5626845359802,,,,"Alert: Danger
+Instruction: Stop immediately at red light."
+600,1226.5626845359802,,,,"**Most Urgent Hazard:** Cyclist
+
+**Imperative Action:** SLOW DOWN IMMEDIATELY TO AVOID COLLISION"
